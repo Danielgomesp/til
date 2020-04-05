@@ -1,5 +1,12 @@
 # til
 a short brief of what I learned today.
 
-##Javascript
--Functional Programming
+### Categories
+
+* [JavaScript](#javascript)
+
+------
+
+### JavaScript
+
+- [Functional Programming](javascript/functional-programming.md)
