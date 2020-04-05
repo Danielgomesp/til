@@ -2,9 +2,9 @@ Como diz Mary Rose Cook:
 > "Functional code is characterised by one thing: the absence of side effects"
 
 
-E para evitar efeitos colaterais, usamos o conceito de **Pure Function**. 
+## Pure Function
 
-Ou seja, a função não deverá contar com dados que estejam fora do seu escopo e de igual modo também não deverá alterar dados fora da mesma. 
+Para evitar efeitos colaterais, a função não deverá contar com dados que estejam fora do seu escopo e de igual modo também não deverá alterar dados fora da mesma. 
 
 Exemplo: 
 
