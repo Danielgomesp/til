@@ -10,3 +10,4 @@ a short brief of what I learned today.
 ### JavaScript
 
 - [Functional Programming](javascript/functional-programming.md)
+- [Map, Filter and Reduce](javascript/map-filter-reduce.md)
