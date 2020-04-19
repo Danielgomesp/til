@@ -12,6 +12,6 @@ a short brief of what I learned today.
 - [Functional Programming](javascript/functional-programming.md)
 - [Map, Filter and Reduce](javascript/map-filter-reduce.md)
 
-## React
+### React
 
 - [Context](react/context.md)
