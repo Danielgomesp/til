@@ -1,5 +1,5 @@
 # til
-a short brief of what I learned today.
+Um resumo do que venho estudando.Serve como um pequeno tutorial, fonte de boiler-plates e anotações importantes. 
 
 ### Categories
 
