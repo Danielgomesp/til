@@ -1,7 +1,5 @@
 Uma das grandes vantagens de usar Context Api é que isso nos salva do famoso "Prop-Drilling", que é a tecnica de passar variáveis para sub-componentes. A ideia principal é [functional programming](../javascript/functional-programming.md), onde passamos os parâmetros para próximas funções e assim por diante.
 
-A Context API faz o mesmo papel do Redux.
-
 Criei um exemplo usando Context API nesse repositório [aqui](https://github.com/Danielgomesp/context) e irei usá-lo para exemplificar esse tópico.
 
 No nosso exemplo, temos um contador de segundos em um elemento [Counter](https://github.com/Danielgomesp/context/blob/master/src/components/Counter/index.js). Ele faz uso de estado para saber o tempo que você está na página.
