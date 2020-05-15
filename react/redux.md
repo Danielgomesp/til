@@ -1,4 +1,4 @@
-**disclaimer:** Esse assunto é complexo e eu ainda estou estudando-o. Por esse motivo esse documento, assim como meus estudos sobre o assunto, ainda não estão concluídos e certamente sofrerá alterações.
+**disclaimer:** Esse assunto é complexo e eu ainda estou estudando-o. Por esse motivo esse documento, assim como meus estudos sobre o assunto, ainda não estão concluídos e certamente sofrerá alterações. Considere o conteúdo abaixo como um Work in Progress.
 
 ## O que é o Redux
 
