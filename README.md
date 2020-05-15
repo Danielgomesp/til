@@ -15,6 +15,7 @@ a short brief of what I learned today.
 ### React
 
 - [Context](react/context.md)
+- [Redux](react/redux.md)
 
 ### Preact
 
