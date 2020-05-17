@@ -6,6 +6,8 @@ Como diz Mary Rose Cook:
 
 Para evitar efeitos colaterais, a função não deverá contar com dados que estejam fora do seu escopo e de igual modo também não deverá alterar dados fora da mesma. 
 
+Além disso, a função sempre deverá retornar os mesmos valores se receber os mesmos inputs.
+
 Exemplo: 
 
 **bad**
