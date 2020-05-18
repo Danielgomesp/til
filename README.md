@@ -4,6 +4,8 @@ Um resumo do que venho estudando.Serve como um pequeno tutorial, fonte de boiler
 ### Categories
 
 * [JavaScript](#javascript)
+* [React](#react)
+* [Preact](#preact)
 
 ------
 
