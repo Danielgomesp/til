@@ -73,6 +73,11 @@ numbers.reduce((previous, current) => {
 ```
 
 
-## Use functions
+## Higher-order Functions
 
-A programção pode se tornar mais declarativa se juntarmos o código dentro de funções.
+Funções são valores!
+E por serem valores, podem ser armazenadas em constantes, variáveis e usadas como parâmetro em uma função.
+
+Chegamos então em um dos pilares do high-order programming: **São funções que recebem outras funções como argumento ou que retornam uma função**.
+Um bom exemplo de uso dessa prática são os arrays prototypes como .map e .reduce por exemplo. [veja exemplo aqui](https://github.com/Danielgomesp/til/blob/master/javascript/map-filter-reduce.md)
+
