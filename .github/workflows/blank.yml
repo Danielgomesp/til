@@ -34,6 +34,7 @@ jobs:
   # This is the job for deploying
   deploy:
     runs-on: ubuntu-latest
+    environment: main
     steps:
       - name: Install dependencies
         run: echo I am installing stuff with npm install... 
