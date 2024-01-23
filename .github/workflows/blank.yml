@@ -11,8 +11,8 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
+  # This is the job for merge requests
+  mergeRequest:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
@@ -30,3 +30,10 @@ jobs:
         run: |
           echo I am running npm run test,
           echo wow, everything is passing so far.
+  
+  # This is the job for deploying
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Install dependencies
+        run: echo I am installing stuff with npm install... 
