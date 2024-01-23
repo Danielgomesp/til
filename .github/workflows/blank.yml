@@ -40,4 +40,4 @@ jobs:
       name: main
     steps:
       - name: Deploy artifacts
-        run: echo I am deploying the artifacts
+        run: echo I am deploying the artifacts!
